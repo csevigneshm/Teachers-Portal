@@ -5,7 +5,8 @@
 To view this project on your localhost:
 
 1. Import the provided `.sql` file into your MySQL database. This will create the required tables and data.
-2. Place the repository files in a separate folder or in your `public_html` folder.
+2. Update your database name and password in the `dbclass.php` file.
+3. Place the repository files in a separate folder or in your `public_html` folder.
 
 Once setup, you can manage the teacher portal as described below.
 
